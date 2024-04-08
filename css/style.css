@@ -109,11 +109,11 @@ body {
 }
 .fa-brands {   
     margin: 20px;
+    color: #F1F1F1;
 }
 .social-media-icons {
     background: #232443;
     text-align: center;
-    color: #F1F1F1;
     padding: 0px;
   font-size: 23px;
 }
